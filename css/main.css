@@ -1,3 +1,17 @@
 body {
-  .margin-top: 30px;
+    margin-top: 30px;
+    background-color: #2b1f10;
+}
+
+.twitter-share-button {
+    float: right;
+    margin-top: 20px;
+}
+
+.app-desc {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    display: block;
+    font-family: Georgia, Serif;
+    color: #999;
 }
